@@ -26,32 +26,33 @@
 
 ## 실행 화면
 #### - 메인 + 사진 게시판
-https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/337e7f85-c90b-44f3-a571-5c7f13a4c494
+https://github.com/estuma/TripLog/assets/92361215/12be2429-0417-4f01-851d-cf906223be60
 
 #### - 회원관리
-https://github.com/estuma/enjoytrip/assets/92361215/487cedcd-d1e4-438a-ac7b-9b4778f190bd
+https://github.com/estuma/TripLog/assets/92361215/14a0a31a-333b-4cc7-8b06-8b2462508ca0
 
 #### - Q&A 게시판
-https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/45eb2aae-05f2-4e6a-85a3-2082be3832af
+https://github.com/estuma/TripLog/assets/92361215/e72655cb-4f53-4979-baf5-2a104b5985c9
 - 관리자만 답글 작성 가능
 
 #### - 여행지 찜
-https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/ac27f25d-9966-4423-82ec-d4296393c943
+https://github.com/estuma/TripLog/assets/92361215/cc60904e-88b9-49eb-ae10-2cf50184177a
 
 #### - 여행 계획
-https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/0f27639a-c8c8-4e54-bf42-fb4321774c23
+https://github.com/estuma/TripLog/assets/92361215/30778615-e624-46c4-b75d-cd077e7567c8
 
 #### - 마이페이지
-https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/84f50ee5-c011-4350-8c77-fa220b84e7bb
+https://github.com/estuma/TripLog/assets/92361215/b307b194-3601-4d6d-9446-343d4cd841ce
+
 
 ---
 ## ERD
-![erd](https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/cb9b74d4-0cd9-4957-9b23-ef0864911759)
+![erd](https://github.com/estuma/TripLog/assets/92361215/273db884-3167-4792-ad24-95b9aa977793)
 
 
 ---
 ### 개발 환경 및 시스템 구성도
-![image](https://github.com/estuma/EnjoyTrip_FINAL_PROJECT/assets/92361215/da6bdce5-628f-4823-ae4a-07283acdd8fd)
+![개발 환경 및 시스템 구성도](https://github.com/estuma/TripLog/assets/92361215/57fa523d-ae58-452f-b199-3107045a6ff5)
 
 ---
 ### 기술 스택
